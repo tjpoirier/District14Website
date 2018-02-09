@@ -1,0 +1,119 @@
+body {
+	background-color: #B9B9B9;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a:link {
+	color: #83A7CB;
+	text-decoration: none;
+	
+}
+a:visited {
+	color: #83A7CB;
+	text-decoration: none;
+}
+a:hover {
+	color: #000;
+	text-decoration: none;
+	text-decoration:underline;
+}
+a:active {
+	color: #000;
+	text-decoration: none;
+}
+
+#nav {
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #84A6CC;
+	font-weight:normal;
+}
+#nav:hover  {
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-weight:normal;
+	text-decoration:none;
+	
+}
+#footerlink:hover {
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	color: #000000;
+	text-decoration:underline;
+}
+#footerlink{
+	font-size:10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+}
+
+#footer  {
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#666666;
+	text-align:
+}
+
+
+main  {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color:#FFF;
+}
+
+#quote  {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #83A7CB;
+	background-color:#FFF;
+}
+
+table.meetings a { 
+display: block; 
+border:1px solid #cccccc;
+} 
+
+div.meetings a {
+color: #83A7CB; 
+background: #ffffff; 
+text-decoration:none; 
+font-size:11px; 
+line-height:16px; 
+font-family: Arial, Helvetica, sans-serif;
+padding-top:5px;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:5px;
+}
+
+div.meetings a:link {
+color: #83A7CB; 
+background: #ffffff; 
+}
+
+div.meetings a:active { 
+color: #83A7CB;
+background: #ffffff; 
+}
+
+div.meetings a:visited {
+color: #83A7CB; 
+background: #ffffff; 
+}
+
+div.meetings a:hover {
+color: #ffffff;
+background: #83A7CB;  
+}
+
+
+
